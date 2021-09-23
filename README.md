@@ -22,6 +22,8 @@ Componentes eletrônicos utilizados
 
 Modelagem 3D
 Antes da aquisição dos materiais necessários para a montagem do Rover foi desenvolvido em um programa de modelagem 3D AutoCAD (SolidWorks) uma simulação da estrutura Rocker-Bogie, essa simulação permitiu uma visualização mais detalhada da aparência e dimensões finais do projeto antes mesmo da montagem. 
+![Picture of the 3D lidar](./Imagens/fotoRooverSolidworks.jpg)
+
  
 Dessa forma todo o processo pode ser visualizado de maneira que seja possível evitar erros na quantidade, formato ou tamanho dos materiais que serão utilizados, a importância dessa etapa está em precisar os custos do projeto e diminuir as chances de desperdício de tempo na correção de possíveis erros futuros decorrentes de uma visualização não apurada da montagem.
 Montagem e problemas iniciais 
