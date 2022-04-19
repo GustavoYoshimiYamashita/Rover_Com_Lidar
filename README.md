@@ -23,8 +23,7 @@ Componentes eletrônicos utilizados
 ## Modelagem 3D
 Antes da aquisição dos materiais necessários para a montagem do Rover foi desenvolvido em um programa de modelagem 3D AutoCAD (SolidWorks) uma simulação da estrutura Rocker-Bogie, essa simulação permitiu uma visualização mais detalhada da aparência e dimensões finais do projeto antes mesmo da montagem. 
 
-![Picture of the 3D lidar](./Imagens/fotoRooverSolidworks.jpg)
-
+![Picture of the 3D lidar](./Imagens/fotoRooverSolidworks.jpg) 
  
 Dessa forma todo o processo pode ser visualizado de maneira que seja possível evitar erros na quantidade, formato ou tamanho dos materiais que serão utilizados, a importância dessa etapa está em precisar os custos do projeto e diminuir as chances de desperdício de tempo na correção de possíveis erros futuros decorrentes de uma visualização não apurada da montagem.
 
@@ -58,5 +57,7 @@ Nesse novo modelo a estrutura se apresentou eficiente no desenvolvimento de obst
 
 O objetivo do Lidar era criar uma nuvem de pontos provenientes das leituras do sensor Infravermelho utilizado, o TF-Luna. Esse sensor possui um alcance significativamente alto quando comparado com outros modelos encontrados para comprar, com uma leitura de 8 metros esse sensor é capaz de mapear ambientes grandes sem a necessidade de se deslocar.
 No começo do projeto foi pensado em utilizar algum sistema para enviar as leituras do sensor via bluetooth ou Wifi, com o objetivo de proporcionar maior articulação sem a necessidade do uso de algum fio de conexão, no entanto, foi optado o uso de uma conexão USB com o computador pois alguns problemas de envio de dados estavam sendo enfrentados na opção de Wifi ou Bluetooth. Dessa forma, o Lidar está funcionando conectado por um cabo USB ao computador, porém, isso foi previsto e pensado como uma situação coerente com o desenvolvimento do projeto esse ano, com o objetivo de nos próximos passos modificar a estrutura lógica para então utilizar um sistema sem fio. Pela imagem abaixo podemos ver o Lidar conectado ao computador.
+
+![Picture of the 3D lidar](./Imagens/LidarFazendoMapeamento.jpg)
 
 
