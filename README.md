@@ -53,3 +53,10 @@ Para corrigir o desalinhamento da estrutura Rocker-Bogie foi necessário reconst
 ![Foto da versão 2 do Rover](./Imagens/RoverDeLado.jpg)
  
 Nesse novo modelo a estrutura se apresentou eficiente no desenvolvimento de obstáculos e caminhos mais complexos, com os 6 motores somando um total de 60kg de torque, não houve nenhum problema de movimentação decorrente do peso total do robô. 
+
+## Desenvolvimento do Lidar
+
+O objetivo do Lidar era criar uma nuvem de pontos provenientes das leituras do sensor Infravermelho utilizado, o TF-Luna. Esse sensor possui um alcance significativamente alto quando comparado com outros modelos encontrados para comprar, com uma leitura de 8 metros esse sensor é capaz de mapear ambientes grandes sem a necessidade de se deslocar.
+No começo do projeto foi pensado em utilizar algum sistema para enviar as leituras do sensor via bluetooth ou Wifi, com o objetivo de proporcionar maior articulação sem a necessidade do uso de algum fio de conexão, no entanto, foi optado o uso de uma conexão USB com o computador pois alguns problemas de envio de dados estavam sendo enfrentados na opção de Wifi ou Bluetooth. Dessa forma, o Lidar está funcionando conectado por um cabo USB ao computador, porém, isso foi previsto e pensado como uma situação coerente com o desenvolvimento do projeto esse ano, com o objetivo de nos próximos passos modificar a estrutura lógica para então utilizar um sistema sem fio. Pela imagem abaixo podemos ver o Lidar conectado ao computador.
+
+
